@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+
+    <title>Expense Tracker</title>
+</head>
+
+<body dir="ltr">
+    <div id="width" class="container">
+        <header>
+            <h1 class="text-center">Expense Tracker App</h1>
+        </header>
+        <section class="main-content">
+            <div id="chartcontrol" title="Show/Hide the Chart"><img src="images/chart.png" data-id="0"></div>
+            <div class="row">
+                <div class="col ">
+                    <div class="content primary">
+                        <div class="amout"><input name="budget" type="number"
+                                placeholder="Enter Budget (e.g. 2000)" class="form-control">
+                            <p class="budgetamount"></p>
+                        </div>
+                        <h2 class="text-center">Enter Your Expenses Here...</h2>
+                        <form id="add-expense" action="#">
+                            <div class="form-group">
+                                <label for="expense">Name:</label>
+                                <input type="text" class="form-control" id="expense"
+                                    placeholder="e.g. Taxi, Cafe">
+                            </div>
+                            <div class="form-group">
+                                <label for="amount">Enter Amount:</label>
+                                <input type="text" class="form-control" id="amount" placeholder="8">
+                            </div>
+
+                            <button type="submit" class="btn btn-primary">Add</button>
+                        </form>
+
+                    </div>
+                    <!--.content-->
+                </div>
+                <!--.col-->
+
+                <div class="col">
+                    <div class="content secondary">
+
+                        <h2 class="text-center">List of Expenses</h2>
+
+                        <div id="expenses">
+                            <ul class="list-group"></ul>
+                        </div>
+                        <div id="budget" class="budget">
+                            <div class="alert alert-primary">
+                                <p>Budget: $<span id="total"></span> </p>
+                            </div>
+                            <div class="restante alert alert-success">
+                                <p>Left: $<span id="left"></span> </p>
+                            </div>
+                        </div>
+                        <!--.budget-->
+                    </div>
+                    <!--.content-->
+                </div>
+                <!--.col-->
+                <div id="chart" class="col">
+                    <div class="content secondary">
+
+                        <h2 class="text-center">Chart</h2>
+
+                        <div id="piechart_3d"></div>
+
+
+
+
+
+
+
+                        <!--.budget-->
+                    </div>
+                    <!--.content-->
+                </div>
+                <!--.col-->
+            </div>
+            <!--.row-->
+            <div id="reset" title="Delete Everything?"><img src="images/trash-can.png"></div>
+        </section>
+        <!-- Credit -->
+       <p class="credit">Developed by &#169;<a href="https://www.linkedin.com/in/durgesh4993/"> Durgesh4993</a></p>
+    </div>
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.2.1.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

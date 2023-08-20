@@ -37,6 +37,21 @@ These are some functionaltites which provided by our website.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# ScreenShorts:
+
+![image](https://github.com/Durgesh4993/Fastest-Coder-Hackathon/assets/98798977/01fea079-1543-4f6e-9537-7891db4d4af1)
+
+![image](https://github.com/Durgesh4993/Fastest-Coder-Hackathon/assets/98798977/9eb4b316-8894-402f-a14f-3ddbb430087f)
+
+![image](https://github.com/Durgesh4993/Fastest-Coder-Hackathon/assets/98798977/caef1ad6-7ae2-4be9-8b45-5b2544f65aab)
+
+![image](https://github.com/Durgesh4993/Fastest-Coder-Hackathon/assets/98798977/5683ac21-4259-4a43-8e70-f1c59d884e7d)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Demo Vedio:
+
+https://github.com/Durgesh4993/Fastest-Coder-Hackathon/assets/98798977/4cc168f3-a5fa-4190-a001-056870282a5d
 
 
 
