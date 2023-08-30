@@ -9,7 +9,7 @@ Personal Finance Tracker- Create a web-based personal finance tracker using Java
 ## Technoilgies Used:
 
 HTML <br> 
-CSS <br>
+CSS <br> 
 JavaScript <br>
 Bootstrap <br>
 jQuery <br>
