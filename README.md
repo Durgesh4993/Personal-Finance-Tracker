@@ -40,13 +40,12 @@ These are some functionaltites which provided by our website.
 
 # ScreenShorts:
 
-![image](https://github.com/Durgesh4993/Fastest-Coder-Hackathon/assets/98798977/01fea079-1543-4f6e-9537-7891db4d4af1)
+![image](https://github.com/Durgesh4993/Personal-Finance-Tracker/assets/98798977/1e50214c-5a85-4a42-84f2-e6c98261b8a1)
 
-![image](https://github.com/Durgesh4993/Fastest-Coder-Hackathon/assets/98798977/9eb4b316-8894-402f-a14f-3ddbb430087f)
+![image](https://github.com/Durgesh4993/Personal-Finance-Tracker/assets/98798977/3b5010f6-64fc-462b-a7fb-1dc15ee2e492)
 
-![image](https://github.com/Durgesh4993/Fastest-Coder-Hackathon/assets/98798977/caef1ad6-7ae2-4be9-8b45-5b2544f65aab)
+![image](https://github.com/Durgesh4993/Personal-Finance-Tracker/assets/98798977/2e9bf6a2-af0f-4072-9b04-5aae5694cd6d)
 
-![image](https://github.com/Durgesh4993/Fastest-Coder-Hackathon/assets/98798977/5683ac21-4259-4a43-8e70-f1c59d884e7d)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
