@@ -40,6 +40,8 @@ These are some functionaltites which provided by our website.
 
 # ScreenShorts:
 
+![image](https://github.com/Durgesh4993/Personal-Finance-Tracker/assets/98798977/c7d398e0-690a-45ed-9103-6c8a10cb3b1d)
+
 ![image](https://github.com/Durgesh4993/Personal-Finance-Tracker/assets/98798977/1e50214c-5a85-4a42-84f2-e6c98261b8a1)
 
 ![image](https://github.com/Durgesh4993/Personal-Finance-Tracker/assets/98798977/3b5010f6-64fc-462b-a7fb-1dc15ee2e492)
